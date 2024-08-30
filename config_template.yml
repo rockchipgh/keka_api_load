@@ -1,0 +1,23 @@
+api:
+ employees: key
+ timesheet: key
+conn: 
+ user: username
+ ip: ipaddress
+ port: port
+ pw: password
+ db: databasename
+localconn:
+ user: username
+ ip: ipaddress
+ port: port
+ pw: password
+ db: databasename
+client:
+ grant_type: kekaapi
+ scope: kekaapi
+ client_id: clientid
+ client_secret: client_secret
+controltbl:
+  schema: stg
+  name: tablename

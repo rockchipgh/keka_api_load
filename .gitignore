@@ -1,0 +1,5 @@
+config.yaml
+csv
+__pycache__
+*.log
+*.ipynb
